@@ -8,6 +8,21 @@
 
 首先本机先要安装以下环境，建议先学习了解springboot和springcloud基础知识。
 
+> host
+```
+127.0.0.1 gateway.xd.dit72
+127.0.0.1 discovery.xd.dit72
+123.207.55.39 rabbit.xd.dit72
+
+123.207.55.39 apollo-config
+123.207.55.39 mysql
+123.207.55.39 redis
+123.207.55.39 rabbitmq
+127.0.0.1 eureka-server
+123.207.55.39 postgres
+123.207.55.39 postgresql
+```
+
 - [git](https://git-scm.com/)
 - [java8](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 
 - [maven](http://maven.apache.org/) 
