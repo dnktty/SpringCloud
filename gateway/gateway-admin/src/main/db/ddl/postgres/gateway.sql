@@ -1,3 +1,4 @@
+SET NAMES utf8;
 --网关路由表
 DROP TABLE IF EXISTS gateway_route;
 CREATE TABLE gateway_route

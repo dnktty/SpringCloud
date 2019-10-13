@@ -1,3 +1,4 @@
+SET NAMES utf8;
 USE sc_admin;
 -- 岗位
 INSERT INTO position (id, name, description, created_time, updated_time, created_by, updated_by)

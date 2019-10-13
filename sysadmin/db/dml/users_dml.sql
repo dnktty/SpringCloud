@@ -1,3 +1,4 @@
+SET NAMES utf8;
 USE sc_admin;
 
 -- 用户

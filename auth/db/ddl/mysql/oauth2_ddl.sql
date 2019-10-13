@@ -1,3 +1,4 @@
+SET NAMES utf8;
 USE sc_auth;
 
 -- access_token存储表

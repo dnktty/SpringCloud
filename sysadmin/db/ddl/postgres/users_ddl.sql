@@ -1,3 +1,4 @@
+SET NAMES utf8;
 --用户表
 DROP TABLE IF EXISTS users;
 CREATE TABLE users

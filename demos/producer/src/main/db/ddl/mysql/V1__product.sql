@@ -1,3 +1,4 @@
+SET NAMES utf8;
 USE sc_product;
 
 DROP TABLE IF EXISTS product;
